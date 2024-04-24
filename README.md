@@ -21,5 +21,6 @@ This code provides a simple and interactive way to simulate rolling a dice, allo
 DEMO:
 
 ![image](https://github.com/arshasuresh03/Dice-Rolling-Stimulator/assets/160167081/65e16161-d988-469d-ab56-31c7a84bd6b0)
+
 ![image](https://github.com/arshasuresh03/Dice-Rolling-Stimulator/assets/160167081/eea56320-01a1-4e08-8dfa-d9ceed4a52ad)
 
